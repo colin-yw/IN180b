@@ -1,4 +1,3 @@
-// copy the copde here
 @Library('piper-lib-os') _
 
 node() {

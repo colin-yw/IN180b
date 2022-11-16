@@ -68,4 +68,3 @@ Import-Service:  javax.sql.DataSource;multiple:=false;filter="(name=wr
  javax.sql.DataSource;multiple:=false;filter="(dataSourceName=default)
  ",org.apache.cxf.ws.rm.persistence.RMStore;multiple:=false,com.sap.es
  b.camel.security.cms.SignatureSplitter;multiple:=false
-
